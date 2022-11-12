@@ -38,6 +38,7 @@
         android:src="@drawable/ic_qr_code"
         app:layout_anchor="@id/bottomAppBar"
         app:fabCustomSize="72dp"
+        android:backgroundTint="@color/dark_blue"
         app:maxImageSize="34dp"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
